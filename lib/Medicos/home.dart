@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
                     ),
                   );
                 } else {
-                  // Puedes agregar más navegaciones para otros códigos aquí
+                  
                 }
               },
                 icon: Column(
