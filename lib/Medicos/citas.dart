@@ -16,7 +16,7 @@ class CitasMedicas extends StatelessWidget {
             child: ListTile(
               leading: Icon(
                 medicos[index]['icono'],
-                color: Colors.orange, // Agrega el color que desees aquí
+                color: Colors.orange, 
               ),
               title: Text(medicos[index]['nombre']),
             ),
